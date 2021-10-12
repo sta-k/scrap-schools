@@ -15,6 +15,9 @@ scrap: https://src.udiseplus.gov.in/newSearchSchool/searchSchool# -> school with
 
 udise.in
 
-to get udise number: http://udise.in/school_directory.htm
+> to get udise number: http://udise.in/school_directory.htm you can download pdfs. 
+> covert using https://convertio.co/
+> https://schools.org.in/x/32060200110/
+
 
 schools in pakistan: https://www.urdupoint.com/education/school/attock/529/ges-ahmed-abad.html
