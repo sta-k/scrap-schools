@@ -11,7 +11,13 @@ Sl | URL | Alexa Rank | Domain Year
 
 src.udiseplus.gov.in
 
-scrap: https://src.udiseplus.gov.in/newSearchSchool/searchSchool# -> school with playground
+scrap: 
+	+ https://src.udiseplus.gov.in/newSearchSchool/searchSchool# -> school with playground
+	+ https://src.udiseplus.gov.in/locateSchool/schoolSearch -> get all schools under a sub district
+	+ https://dashboard.udiseplus.gov.in/ -> graphs
+	+ https://schoolgis.nic.in/ -> map
+
+
 
 udise.in
 
@@ -21,3 +27,4 @@ udise.in
 
 
 schools in pakistan: https://www.urdupoint.com/education/school/attock/529/ges-ahmed-abad.html
+
