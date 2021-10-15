@@ -1,5 +1,9 @@
 # scrap-schools
 
+# Indian Schools
+
+## Websites
+
 Sl | URL | Alexa Rank | Domain Year
 --- | --- | --- | ---
 1 | schoolsworld.in | 456,406 | 2011
@@ -9,15 +13,25 @@ Sl | URL | Alexa Rank | Domain Year
 5 | schools.org.in | 70,529 | 2018
 6 | uniformapp.in | 98,137 | x
 
-src.udiseplus.gov.in
 
-scrap: 
-	+ https://src.udiseplus.gov.in/newSearchSchool/searchSchool# -> school with playground
-	+ https://src.udiseplus.gov.in/locateSchool/schoolSearch -> get all schools under a sub district
-	+ https://dashboard.udiseplus.gov.in/ -> graphs
-	+ https://schoolgis.nic.in/ -> map
+## Scrap: 
 
++ https://src.udiseplus.gov.in/newSearchSchool/searchSchool# -> school with playground
++ https://src.udiseplus.gov.in/locateSchool/schoolSearch -> get all schools under a sub district
++ https://dashboard.udiseplus.gov.in/ -> graphs
++ https://schoolgis.nic.in/ -> map
 
+## Numbers:
+
+Number of | Count
+--- | ---
+Schools | 1507708
+Teachers | 9687577(male: 4.9m, female 4.7m)
+Students | 264527575 (Girls: 127m, 137m)
+Humans | 649827000(age group 3-23)
+
+age group 3-23
+["83962000","117842000","70550000","48425000","49647000","126958000","152443000"]
 
 udise.in
 
@@ -25,6 +39,8 @@ udise.in
 > covert using https://convertio.co/
 > https://schools.org.in/x/32060200110/
 
+
+## Other countries
 
 schools in pakistan: https://www.urdupoint.com/education/school/attock/529/ges-ahmed-abad.html
 
