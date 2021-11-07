@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>Stack Schools.</h1>
+  <form method="POST" action=".">{% csrf_token %}
+      <h1>{{total}}</h1>
+      <input type="submit">
+
+  </form>
+{% endblock %}
